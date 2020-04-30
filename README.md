@@ -3,7 +3,7 @@
 
   This is the link to my [digital portfolio](https://kristenqako.github.io/Portfolio/)
   
-  <header> Lab 1: Roman Coin Hoard Data-Set. </header>
+  ## Lab 1: Roman Coin Hoard Data-Set. 
   
   The data can be found here on [Online Coins of the Roman Empire](http://numismatics.org/ocre/)
   
@@ -19,7 +19,7 @@
   [Coin Hoard Data Set](https://github.com/KristenQako/clas299/blob/master/exploring-a-data-set.ipynb)  
   
   
-  <header> Interpreting Ptolemy's longitude/latitude data.  </header>
+  ## Interpreting Ptolemy's longitude/latitude data.  
   
   Ptolemy’s Geography includes locations in longitude-latitude coordinates for more than 6,000 points.
   While his scheme of longitude and latitude is the same one we use – 360 degrees of longitude measured from an arbitrary 0 (the origin), and 360 degrees of latitude with 0 at the equator, running to 90 degrees North and 90 degrees south at the poles – his raw data do not fall near the corresponding modern locations.  
@@ -28,7 +28,7 @@
   The jupyter notebook can be found below:  
   [Ptolemy's Geographical Analysis](https://github.com/KristenQako/clas299/blob/master/ptolemy.ipynb)  
   
-  <header> Individual Project: Ancient Lycian Necropoleis  </header>
+  ## Individual Project: Ancient Lycian Necropoleis  
   
   ### Overview:  
   In ancient Lycia, rock-cut tombs often clustered together in cemetery sites, or necropoleis, like ancient Myra (modern Demre). The set contains data about Lycian necropoleis including the number of tombs at each site. The purpose of the code is to figure out how many total tombs are represented in the data set.  
