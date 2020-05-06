@@ -41,3 +41,14 @@ The data set is represented is like this: sitename#ztype#tombcount#comments#ztyp
   [Ancient Lycian Necropoleis](https://github.com/KristenQako/clas299/blob/master/Ancient-Lycian-Tombs.ipynb)  
   
   
+ ## Group Final Project: Grouping Lycian Tombs by Ztype 
+ 
+ #### Overview:
+  Similarly to the previous individual project of finding the sum of Lycian Tombs, here we take a look at the ztypes of the same data. We ask the question: How many of each zType was found in the data? This jupyter notebook was worked on by Michael Dahlquist, Sean Sullivan, and I.
+  
+  The jupyter notebook can be found below:  
+  [Lycian Tombs zType Final Project](https://github.com/KristenQako/clas299/blob/master/LyicanTombs_zType.ipynb)
+  
+  
+  
+  
